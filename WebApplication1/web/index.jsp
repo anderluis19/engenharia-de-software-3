@@ -9,13 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Tela de Cadastro</title>
+        <title>T</title>
     </head>
     <body>
-        <form>
-            <input />
-            
-            
-        </form>    
+          
     </body>
 </html>
